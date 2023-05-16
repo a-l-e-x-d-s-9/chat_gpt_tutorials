@@ -1,0 +1,70 @@
+Tutorial for Stable Diffusion prompt making #2 continue 1.
+
+Medium or style: The medium is the material used to produce the artwork. Examples include illustrations, paintings, 3D renderings, Japanese anime and photography. Mediums have a strong influence because just one keyword can dramatically change the style.
+
+Artist: Artist names are powerful modifiers. They allow you to specify the exact style using a specific artist as a reference. It's also common to use multiple artists' names to mix their styles. For example, you can add Van Gogh so that the resulting image will carry the appropriate style.
+
+Additional details: Additional details are sweeteners added to modify the image. We can add adjectives such as sci-fi and stunningly beautiful to add a sense of ambiance to the image and make it rendered with more detail and vividness. In addition, we can add some keywords to control the color tone of the image, lighting effects, etc.
+
+
+What Are the Key Words for Stable Diffusion Prompt
+You must perfect your prompts in order to receive decent outcomes from Stable Diffusion AI. The level of the prompt you provide will directly affect the level of detail and quality of the artwork. So how can you refine your prompts? That is to add some keywords to the prompt, such as subject, medium, style and much more.
+
+Subject. The subject is what you want to present in the image. A common mistake is often not depicting the subject in sufficient detail. Stable Diffusion cannot read our minds. We have to say exactly what we want. Using the names of famous people is a common technique. They will largely change the entire presentation of the image
+
+Medium or style. The medium is the material used to produce the artwork. Examples include illustrations, paintings, 3D renderings, Japanese anime and photography. Mediums have a strong influence because just one keyword can dramatically change the style.
+
+Artist. Artist names are powerful modifiers. They allow you to specify the exact style using a specific artist as a reference. It's also common to use multiple artists' names to mix their styles. For example, you can add Van Gogh so that the resulting image will carry the appropriate style.
+
+Additional details. Additional details are sweeteners added to modify the image. We can add adjectives such as sci-fi and stunningly beautiful to add a sense of ambiance to the image and make it rendered with more detail and vividness. In addition, we can add some keywords to control the color tone of the image, lighting effects, etc.
+
+Best Prompt Examples of Stable DiffusionWhat Are the Key Words for Stable Diffusion Prompt
+You must perfect your prompts in order to receive decent outcomes from Stable Diffusion AI. The level of the prompt you provide will directly affect the level of detail and quality of the artwork. So how can you refine your prompts? That is to add some keywords to the prompt, such as subject, medium, style and much more.
+
+Subject. The subject is what you want to present in the image. A common mistake is often not depicting the subject in sufficient detail. Stable Diffusion cannot read our minds. We have to say exactly what we want. Using the names of famous people is a common technique. They will largely change the entire presentation of the image
+
+Medium or style. The medium is the material used to produce the artwork. Examples include illustrations, paintings, 3D renderings, Japanese anime and photography. Mediums have a strong influence because just one keyword can dramatically change the style.
+
+Artist. Artist names are powerful modifiers. They allow you to specify the exact style using a specific artist as a reference. It's also common to use multiple artists' names to mix their styles. For example, you can add Van Gogh so that the resulting image will carry the appropriate style.
+
+Additional details. Additional details are sweeteners added to modify the image. We can add adjectives such as sci-fi and stunningly beautiful to add a sense of ambiance to the image and make it rendered with more detail and vividness. In addition, we can add some keywords to control the color tone of the image, lighting effects, etc.
+
+What Are the Key Words for Stable Diffusion Prompt
+You must perfect your prompts in order to receive decent outcomes from Stable Diffusion AI. The level of the prompt you provide will directly affect the level of detail and quality of the artwork. So how can you refine your prompts? That is to add some keywords to the prompt, such as subject, medium, style and much more.
+
+Subject. The subject is what you want to present in the image. A common mistake is often not depicting the subject in sufficient detail. Stable Diffusion cannot read our minds. We have to say exactly what we want. Using the names of famous people is a common technique. They will largely change the entire presentation of the image
+
+Medium or style. The medium is the material used to produce the artwork. Examples include illustrations, paintings, 3D renderings, Japanese anime and photography. Mediums have a strong influence because just one keyword can dramatically change the style.
+
+Artist. Artist names are powerful modifiers. They allow you to specify the exact style using a specific artist as a reference. It's also common to use multiple artists' names to mix their styles. For example, you can add Van Gogh so that the resulting image will carry the appropriate style.
+
+Additional details. Additional details are sweeteners added to modify the image. We can add adjectives such as sci-fi and stunningly beautiful to add a sense of ambiance to the image and make it rendered with more detail and vividness. In addition, we can add some keywords to control the color tone of the image, lighting effects, etc.
+
+Best Prompt Examples of Stable Diffusion
+After learning the key points of writing prompts, let's look at some examples of good Stable Diffusion prompts.
+
+1. Temple in ruins, forest, stairs, columns, cinematic, detailed, atmospheric, epic, concept art, matte painting, background, mist, photo-realistic, concept art, volumetric light, cinematic epic, 8k.
+
+2. Pixel collage painting of the last supper, feasting over pixelated ramen, painted by Mark Rothko and Hilma af Klint, neo expressionism, pastel colors, pop art, intricate detail, masterpiece, 8k.
+
+3. A portrait of a cyborg in a golden suit, D&D sci-fi, concept art, highly detailed illustration.
+
+4. vBeautiful Victorian raven digital painting, art by Artgerm and Greg rutkowski, Alphonse Mucha, Cgsociety
+
+5. Sci-fi, cyberpunk, Tokyo at night in the rain, neon lights, flying cars, watercolor
+
+6. Dream, future design, architecture design, in the mountains, foggy, cinematic composition, highly detailed, 8k
+
+Conclusion
+In this post, we have talked about some tips for writing awesome Stable Diffusion prompts and share a powerful AI image generator, Fotor, to test your art prompts. In addition, some of the best prompt examples of Stable Diffusion are listed as a reference. Hope you find this blog helpful.Best Prompt Examples of Stable Diffusion
+After learning the key points of writing prompts, let's look at some examples of good Stable Diffusion prompts.
+
+1. Temple in ruins, forest, stairs, columns, cinematic, detailed, atmospheric, epic, concept art, matte painting, background, mist, photo-realistic, concept art, volumetric light, cinematic epic, 8k.
+
+2. Pixel collage painting of the last supper, feasting over pixelated ramen, painted by Mark Rothko and Hilma af Klint, neo expressionism, pastel colors, pop art, intricate detail, masterpiece, 8k.
+
+3. A portrait of a cyborg in a golden suit, D&D sci-fi, concept art, highly detailed illustration.
+
+4. vBeautiful Victorian raven digital painting, art by Artgerm and Greg rutkowski, Alphonse Mucha, Cgsociety
+
+5. Sci-fi, cyberpunk, Tokyo at night in the rain, neon lights, flying cars, watercolor

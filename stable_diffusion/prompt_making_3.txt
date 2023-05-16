@@ -1,0 +1,22 @@
+Tutorial for Stable Diffusion prompt making #2 continue 2.
+
+6. Dream, future design, architecture design, in the mountains, foggy, cinematic composition, highly detailed, 8k
+
+Conclusion
+In this post, we have talked about some tips for writing awesome Stable Diffusion prompts and share a powerful AI image generator, Fotor, to test your art prompts. In addition, some of the best prompt examples of Stable Diffusion are listed as a reference. Hope you find this blog helpful.
+After learning the key points of writing prompts, let's look at some examples of good Stable Diffusion prompts.
+
+1. Temple in ruins, forest, stairs, columns, cinematic, detailed, atmospheric, epic, concept art, matte painting, background, mist, photo-realistic, concept art, volumetric light, cinematic epic, 8k.
+
+2. Pixel collage painting of the last supper, feasting over pixelated ramen, painted by Mark Rothko and Hilma af Klint, neo expressionism, pastel colors, pop art, intricate detail, masterpiece, 8k.
+
+3. A portrait of a cyborg in a golden suit, D&D sci-fi, concept art, highly detailed illustration.
+
+4. vBeautiful Victorian raven digital painting, art by Artgerm and Greg rutkowski, Alphonse Mucha, Cgsociety
+
+5. Sci-fi, cyberpunk, Tokyo at night in the rain, neon lights, flying cars, watercolor
+
+6. Dream, future design, architecture design, in the mountains, foggy, cinematic composition, highly detailed, 8k
+
+Conclusion
+In this post, we have talked about some tips for writing awesome Stable Diffusion prompts and share a powerful AI image generator, Fotor, to test your art prompts. In addition, some of the best prompt examples of Stable Diffusion are listed as a reference. Hope you find this blog helpful.
